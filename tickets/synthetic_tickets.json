@@ -1,0 +1,152 @@
+[
+  {
+    "ticket_id": "TKT-001",
+    "submitted_at": "2026-11-13T07:42:00",
+    "user_name": "jane.okafor",
+    "user_role": "nurse",
+    "department": "ICU",
+    "subject": "VPN won't connect — shift starts in 20 minutes",
+    "body": "My laptop cannot connect to the VPN. I need remote access to the EHR to review patient assignments before my shift. Shift starts in 20 minutes. This is urgent.",
+    "self_reported_urgency": "urgent"
+  },
+  {
+    "ticket_id": "TKT-002",
+    "submitted_at": "2026-11-13T08:15:00",
+    "user_name": "mark.chen",
+    "user_role": "facilities",
+    "department": "Operations",
+    "subject": "Office printer not working",
+    "body": "The printer on the 3rd floor keeps saying 'paper jam' but there is no paper jam. I restarted it twice. Not urgent, just annoying.",
+    "self_reported_urgency": "low"
+  },
+  {
+    "ticket_id": "TKT-003",
+    "submitted_at": "2026-11-13T08:55:00",
+    "user_name": "priya.sharma",
+    "user_role": "medical_records",
+    "department": "Health Information Management",
+    "subject": "I may have sent patient data to the wrong email",
+    "body": "I accidentally sent a spreadsheet with patient names and diagnosis codes to an external email address. It was meant for our compliance team internally. I think it may contain PHI. What do I do?",
+    "self_reported_urgency": "urgent"
+  },
+  {
+    "ticket_id": "TKT-004",
+    "submitted_at": "2026-11-13T09:10:00",
+    "user_name": "tom.riley",
+    "user_role": "admin",
+    "department": "Human Resources",
+    "subject": "Clicked a suspicious link in an email",
+    "body": "I received an email that looked like it was from IT saying my password was expiring. I clicked the link and entered my credentials before I realized it might be a phishing attempt. My computer is behaving strangely now.",
+    "self_reported_urgency": "urgent"
+  },
+  {
+    "ticket_id": "TKT-005",
+    "submitted_at": "2026-11-13T09:30:00",
+    "user_name": "dr.amara.diallo",
+    "user_role": "physician",
+    "department": "Emergency Medicine",
+    "subject": "Medication dosing software crashed mid-order",
+    "body": "The medication order entry software crashed while I was entering an order for a patient in the ED. I had to write it on paper for now but this is a patient safety issue. Need this resolved immediately.",
+    "self_reported_urgency": "critical"
+  },
+  {
+    "ticket_id": "TKT-006",
+    "submitted_at": "2026-11-13T09:45:00",
+    "user_name": "sarah.kim",
+    "user_role": "finance",
+    "department": "Billing",
+    "subject": "Can't open Excel files from shared drive",
+    "body": "Since yesterday I can't open any Excel files stored on the shared drive. I get an error saying the file format is not supported. I need these for end-of-month reporting.",
+    "self_reported_urgency": "medium"
+  },
+  {
+    "ticket_id": "TKT-007",
+    "submitted_at": "2026-11-13T10:00:00",
+    "user_name": "dave.petrov",
+    "user_role": "staff",
+    "department": "Logistics",
+    "subject": "Computer acting weird",
+    "body": "My computer is slow and sometimes the screen flickers. It started maybe two weeks ago. I don't know if it's the hardware or the software. It doesn't really affect my work too much but it's getting worse.",
+    "self_reported_urgency": "low"
+  },
+  {
+    "ticket_id": "TKT-008",
+    "submitted_at": "2026-11-13T10:20:00",
+    "user_name": "linda.wu",
+    "user_role": "compliance",
+    "department": "Legal & Compliance",
+    "subject": "Need access to EHR audit logs for HIPAA investigation",
+    "body": "I am conducting an internal HIPAA compliance investigation and need read-only access to the EHR audit logs for the past 90 days. This involves reviewing access to medical records for a specific patient. Please treat as confidential.",
+    "self_reported_urgency": "medium"
+  },
+  {
+    "ticket_id": "TKT-009",
+    "submitted_at": "2026-11-13T10:35:00",
+    "user_name": "carlos.mendez",
+    "user_role": "staff",
+    "department": "Maintenance",
+    "subject": "Forgot my password",
+    "body": "I forgot my Windows login password. I haven't logged in for two weeks because I was on leave. Can someone reset it for me?",
+    "self_reported_urgency": "low"
+  },
+  {
+    "ticket_id": "TKT-010",
+    "submitted_at": "2026-11-13T11:00:00",
+    "user_name": "nurse.aisha.brown",
+    "user_role": "nurse",
+    "department": "Pharmacy",
+    "subject": "Badge reader on medication room door not working",
+    "body": "The badge reader on the controlled substance medication room is not responding to my badge. I cannot access medications I need to dispense for patients. I tried my badge on other doors and it works fine. This needs to be fixed now.",
+    "self_reported_urgency": "urgent"
+  },
+  {
+    "ticket_id": "TKT-011",
+    "submitted_at": "2026-11-13T11:15:00",
+    "user_name": "felix.osei",
+    "user_role": "admin",
+    "department": "Radiology",
+    "subject": "RANSOMWARE MESSAGE on my screen",
+    "body": "I turned on my computer this morning and there is a message on my screen saying all my files are encrypted and I need to pay bitcoin. I have NOT clicked anything. The screen is just showing this message. All capital letters because this is very serious. I have disconnected my ethernet cable.",
+    "self_reported_urgency": "critical"
+  },
+  {
+    "ticket_id": "TKT-012",
+    "submitted_at": "2026-11-13T11:30:00",
+    "user_name": "morgan.hayes",
+    "user_role": "finance",
+    "department": "Accounts Payable",
+    "subject": "Microsoft Teams keeps crashing",
+    "body": "Teams crashes every time I try to join a meeting. I've tried reinstalling it. This is my second ticket about this — I submitted one last week (TKT-087) and the fix didn't stick.",
+    "self_reported_urgency": "medium"
+  },
+  {
+    "ticket_id": "TKT-013",
+    "submitted_at": "2026-11-13T11:45:00",
+    "user_name": "it.admin",
+    "user_role": "it_staff",
+    "department": "IT",
+    "subject": "New employee onboarding — account setup",
+    "body": "New hire starting Monday: Rosa Gutierrez, Nurse Practitioner, Oncology. Needs EHR access, VPN, and email. Please create accounts before her start date.",
+    "self_reported_urgency": "medium"
+  },
+  {
+    "ticket_id": "TKT-014",
+    "submitted_at": "2026-11-13T12:00:00",
+    "user_name": "dr.raj.patel",
+    "user_role": "radiologist",
+    "department": "Radiology",
+    "subject": "PACS imaging software extremely slow",
+    "body": "The PACS system (medical imaging software) is loading images very slowly — taking 3-4 minutes per image. I have a full schedule of reads today. This isn't a full outage but it's significantly slowing clinical workflow. The images are loading correctly, just slowly.",
+    "self_reported_urgency": "medium"
+  },
+  {
+    "ticket_id": "TKT-015",
+    "submitted_at": "2026-11-13T13:00:00",
+    "user_name": "grace.obi",
+    "user_role": "staff",
+    "department": "Food Services",
+    "subject": "Laptop won't turn on",
+    "body": "My work laptop will not power on at all. I pressed the power button multiple times. The charging light comes on when plugged in but it still won't boot. I need my laptop for end-of-day inventory.",
+    "self_reported_urgency": "medium"
+  }
+]
